@@ -1,0 +1,40 @@
+[submodule "vendor/gems/enju_leaf"]
+	path = vendor/gems/enju_leaf
+	url = git://github.com/next-l/enju_leaf.git
+	branch = 1.2
+[submodule "vendor/gems/enju_seed"]
+	path = vendor/gems/enju_seed
+	url = git://github.com/next-l/enju_seed.git
+	branch = 1.2
+[submodule "vendor/gems/enju_biblio"]
+	path = vendor/gems/enju_biblio
+	url = git://github.com/next-l/enju_biblio.git
+	branch = 1.2
+[submodule "vendor/gems/enju_library"]
+	path = vendor/gems/enju_library
+	url = git://github.com/next-l/enju_library.git
+	branch = 1.2
+[submodule "vendor/gems/enju_manifestation_viewer"]
+	path = vendor/gems/enju_manifestation_viewer
+	url = git://github.com/next-l/enju_manifestation_viewer.git
+	branch = 1.2
+[submodule "vendor/gems/enju_ndl"]
+	path = vendor/gems/enju_ndl
+	url = git://github.com/next-l/enju_ndl.git
+	branch = 1.2
+[submodule "vendor/gems/enju_circulation"]
+	path = vendor/gems/enju_circulation
+	url = git://github.com/next-l/enju_circulation.git
+	branch = 1.2
+[submodule "vendor/gems/enju_subject"]
+	path = vendor/gems/enju_subject
+	url = git://github.com/next-l/enju_subject.git
+	branch = 1.2
+[submodule "vendor/gems/enju_message"]
+	path = vendor/gems/enju_message
+	url = git://github.com/next-l/enju_message.git
+	branch = 1.2
+[submodule "vendor/gems/enju_event"]
+	path = vendor/gems/enju_event
+	url = git://github.com/next-l/enju_event.git
+	branch = 1.2
